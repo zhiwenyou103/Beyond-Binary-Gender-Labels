@@ -16,3 +16,32 @@ Please set up the environments as follows:
 conda create -n <env name> python=3.8.12
 pip install transformers pandas openai numpy sentence-transformers datasets
 ```
+
+### Citation
+
+Please cite the below paper if you intent to use the code for your research.
+
+```
+@inproceedings{you-etal-2024-beyond,
+    title = "Beyond Binary Gender Labels: Revealing Gender Bias in {LLM}s through Gender-Neutral Name Predictions",
+    author = "You, Zhiwen  and
+      Lee, HaeJin  and
+      Mishra, Shubhanshu  and
+      Jeoung, Sullam  and
+      Mishra, Apratim  and
+      Kim, Jinseok  and
+      Diesner, Jana",
+    editor = "Fale{\'n}ska, Agnieszka  and
+      Basta, Christine  and
+      Costa-juss{\`a}, Marta  and
+      Goldfarb-Tarrant, Seraphina  and
+      Nozza, Debora",
+    booktitle = "Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.gebnlp-1.16",
+    doi = "10.18653/v1/2024.gebnlp-1.16",
+    pages = "255--268",
+}
