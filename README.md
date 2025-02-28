@@ -8,11 +8,11 @@ Name-based gender prediction has traditionally categorized individuals as either
 </div>
 
 ## Datasets
-Check the `data` folder for all datasets we used in this paper, including balanced datasets and dynamic gender label datasets. 
+Check the [data](https://github.com/zhiwenyou103/Beyond-Binary-Gender-Labels/tree/main/data) folder for all datasets we used in the paper, including balanced datasets and dynamic gender label datasets. 
 
 ## Citation
 
-Please cite the below paper if you intent to use the code for your research.
+Please cite the below paper if you intent to use our data for your research:
 
 ```
 @inproceedings{you-etal-2024-beyond,
