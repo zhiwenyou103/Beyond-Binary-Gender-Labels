@@ -1,3 +1,7 @@
+[![Conference](https://img.shields.io/badge/GeBNLP-2024-4b44ce)](https://genderbiasnlp.talp.cat/gebnlp-2024/)
+[![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://aclanthology.org/2024.gebnlp-1.16/)
+
+
 ## Beyond Binary Gender Labels
 The official repository for [Beyond Binary Gender Labels: Revealing Gender Bias in LLMs through Gender-Neutral Name Predictions](https://aclanthology.org/2024.gebnlp-1.16/) 
 
